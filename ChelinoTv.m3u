@@ -1,0 +1,239 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Deportes", ESPN
+http://212.5.144.156:8080/espn/index.m3u8
+
+#EXTINF:-1 group-title="Deportes", ESPN 2
+http://190.61.47.54:8000/play/a005/index.m3u8
+
+#EXTINF:-1 group-title="Deportes", ESPN 3
+
+#EXTINF:-1 group-title="Deportes", ESPN 4 BRA
+http://181.78.197.59:8000/play/a07n/index.m3u8
+
+#EXTINF:-1 group-title="Deportes", ESPN 5
+ 
+#EXTINF:-1 group-title="Deportes", ESPN 6 
+
+#EXTINF:-1 group-title="Deportes", ESPN 7
+
+#EXTINF:-1 group-title="Deportes", ESPN PREMIUM ARG
+http://45.134.141.161:2200/ARG/ESPN_Premium_Argentina_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Peliculas", A&E
+http://138.121.15.230:9002/A&E/index.m3u8
+
+#EXTINF:-1 group-title="Peliculas", A&E OP2
+http://190.93.224.42/AYE/index.m3u8
+
+#EXTINF:-1 group-title="infantil", Disney Channel HD
+http://15.204.246.24:8080/DisneyHD/index.m3u8
+
+#EXTINF:-1 group-title="infantil", Disney Channel
+http://45.171.108.253:8888/DISNEY_CHANNEL/index.m3u8
+
+#EXTINF:-1 group-title="infantil", Disney Channel OP2
+http://138.59.227.20:8000/play/a06w/index.m3u8
+
+#EXTINF:-1 group-title="infantil", Disney JR
+http://45.185.163.75:8000/play/a016/index.m3u8
+
+#EXTINF:-1 group-title="Peliculas", CINE LATINO
+http://200.115.96.61:9090/play/a0i5/index.m3u8
+
+#EXTINF:-1 group-title="Peliculas", CINE LATINO OP2
+http://168.196.127.137:6001/play/a08o/index.m3u8
+
+#EXTINF:-1 group-title="Peliculas", De Pelicula
+http://38.19.41.46:8081/DEPELICULA/index.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento", UNIVISION
+http://138.121.15.230:9002/UNIVISION/index.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento", TVE Internacional America
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento", Animal Planet HD
+http://15.204.246.24:8080/AnimalPlanetHD/index.m3u8
+
+#EXTINF:-1 group-title="24 horas", Avatar: La Leyenda de Aang
+https://jmp2.uk/plu-6759ee82bd523200083b4f0f.m3u8
+
+#EXTINF:-1 group-title="Peliculas", AXN
+http://45.167.1.138:8000/play/a04s
+
+#EXTINF:-1 group-title="Peliculas", AXN OP2
+http://138.121.15.230:9002/AXN/index.m3u8
+
+#EXTINF:-1 group-title="infantil", Cartoon Network
+http://45.173.12.70:8000/play/a0fj
+
+#EXTINF:-1 group-title="infantil", Cartoon Network OP2
+http://158.172.217.18:8000/play/a03a/index.m3u8
+
+#EXTINF:-1 group-title="infantil", Cartoonito
+http://45.173.12.70:8000/play/a0hh
+
+#EXTINF:-1 group-title="Peliculas", Cine Canal HD
+http://15.204.246.24:8080/CinecanalHD/index.m3u8
+
+#EXTINF:-1 group-title="Peliculas", Cine Canal OP2
+http://190.61.47.54:8000/play/a02z/index.m3u8
+
+#EXTINF:-1 group-title="Peliculas", CineMAX
+https://streaming.onnethn.com/CINEMAX/playlist.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento", Comedy Central
+http://190.93.224.42/COMEDY-CENTRAL/index.m3u8
+
+#EXTINF:-1 group-title="24 horas", South Park
+https://jmp2.uk/plu-609ae5cd48d3200007b0a98e.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento", Discovery Channel
+http://45.171.64.30:6060/play/a032/index.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento", Discovery Channel OP2
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/20.m3u8
+
+#EXTINF:-1 group-title="Infantil", Discovery Kids 
+http://38.224.231.176:8000/play/a01j/index.m3u8
+
+#EXTINF:-1 group-title="Peliculas", FX HD
+http://15.204.246.24:8080/FXHD/index.m3u8
+
+#EXTINF:-1 group-title="Peliculas", FX OP2
+http://168.196.127.137:6001/play/a05u/index.m3u8
+
+#EXTINF:-1 group-title="Peliculas", HBO 2 HD
+http://15.204.246.24:8080/HBO2HD/index.m3u8
+
+#EXTINF:-1 group-title="Peliculas", HBO 2 OP2
+http://45.171.64.30:6060/play/a00i/index.m3u8
+
+#EXTINF:-1 group-title="Peliculas", HBO Family HD
+http://15.204.246.24:8080/HBOFamilyHD/index.m3u8
+
+#EXTINF:-1 group-title="Peliculas", HBO Family OP 2
+http://45.171.64.30:6060/play/a00k/index.m3u8
+
+#EXTINF:-1 group-title="Peliculas", HBO HD
+http://15.204.246.24:8080/HBOHD/index.m3u8
+
+#EXTINF:-1 group-title="Peliculas", HBO OP2
+https://streaming.onnethn.com/HBO/playlist.m3u8
+
+#EXTINF:-1 group-title="Peliculas", HBO POP
+http://15.204.246.24:8080/HBOPOPHD/index.m3u8
+
+#EXTINF:-1 group-title="Peliculas", HBO XTREME
+http://181.78.61.202:8000/play/a02a
+
+#EXTINF:-1 group-title="Peliculas", HBO XTREME HD
+http://15.204.246.24:8080/HBOXTREMEHD/index.m3u8
+
+#EXTINF:-1 group-title="Peliculas", HBO PLUS HD
+http://15.204.246.24:8080/HBOPlusHD/index.m3u8
+
+#EXTINF:-1 group-title="24 horas", Hey Arnold!
+https://jmp2.uk/plu-66c79221b1a34600087e264d.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento", History 2 
+http://181.225.190.242:8000/play/a023
+
+#EXTINF:-1 group-title="Entretenimiento", History Channel HD
+http://15.204.246.24:8080/HistoryHD/index.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento", History Channel OP2
+http://138.121.15.230:9002/HISTORY-CHANNEL/index.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento", MTV OP2
+http://181.78.79.131:8000/play/a0nc
+
+#EXTINF:-1 group-title="Entretenimiento", MTV HD
+http://15.204.246.24:8080/MTVHD/index.m3u8
+
+#EXTINF:-1 group-title="24 horas", Nick Jr. Club
+https://jmp2.uk/plu-5ddd7cb2cbb9010009b4fe32.m3u8
+
+#EXTINF:-1 group-title="Infantil", Nick Jr.
+https://streaming.onnethn.com/NICK_JR/playlist.m3u8
+
+#EXTINF:-1 group-title="24 horas", Nick Clasico
+https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8
+
+#EXTINF:-1 group-title="Infantil", Nickelodeon HD
+http://181.78.79.131:8000/play/a0qm
+
+#EXTINF:-1 group-title="Infantil", Nickelodeon OP2
+http://181.224.255.210:8001/play/a0fm
+
+#EXTINF:-1 group-title="24 horas", Nickelodeon TEEN
+https://jmp2.uk/plu-5fab09a8749b1a00077d35d2.m3u8
+
+#EXTINF:-1 group-title="24 horas", Nickelodeon Toons
+https://jmp2.uk/plu-645952687cb4b100084ed52e.m3u8
+
+#EXTINF:-1 group-title="24 horas", Rugrats
+https://jmp2.uk/plu-5ea7215005d66d0007e8128a.m3u8
+
+#EXTINF:-1 group-title="Peliculas", Sony Movies
+http://15.204.246.24:8080/SonyMoviesHD/index.m3u8
+
+#EXTINF:-1 group-title="Peliculas", Star Channel
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/51.m3u8
+
+#EXTINF:-1 group-title="Peliculas", Star Channel HD
+http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
+
+#EXTINF:-1 group-title="Peliculas", Studio Universal
+http://190.93.224.42/STUDIO-UNIVERSAL/index.m3u8
+
+#EXTINF:-1 group-title="Peliculas", Studio Universal OP2
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/53.m3u8
+
+#EXTINF:-1 group-title="Peliculas", TCM
+http://45.171.64.30:6060/play/a014/index.m3u8
+
+#EXTINF:-1 group-title="Peliculas", TCM OP2
+http://45.171.64.30:6060/play/a014/index.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento", TLC
+http://38.134.250.110:8000/play/a00n/index.m3u8
+
+#EXTINF:-1 group-title="Peliculas", TNT
+http://45.171.64.30:6060/play/a03i/index.m3u8
+
+#EXTINF:-1 group-title="Peliculas", UNIVERSAL HD
+http://15.204.246.24:8080/UniversalHD/index.m3u8
+
+#EXTINF:-1 group-title="Peliculas", UNIVERSAL OP2
+http://138.121.15.230:9002/UNIVERSAL-CHANNEL/index.m3u8
+
+#EXTINF:-1 group-title="Peliculas", SPACE
+http://45.171.64.30:6060/play/a04n/index.m3u8
+
+#EXTINF:-1 group-title="Peliculas" ,SKY Sports
+http://45.228.234.9:8000/play/a06b/index.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento", AZTECA 7
+http://187.245.231.226:8000/play/a0uz/index.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento", AZTECA UNO
+http://38.44.109.41:8003/play/a033/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
