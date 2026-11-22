@@ -221,6 +221,9 @@ http://187.245.231.226:8000/play/a0uz/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento", AZTECA UNO
 http://38.44.109.41:8003/play/a033/index.m3u8
 
+#EXTINF:-1 gropu-title="Deportes", Fox Central
+http://181.78.106.127:5000/play/a009/index.m3u8
+
 
 
 
